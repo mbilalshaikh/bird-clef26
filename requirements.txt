@@ -1,0 +1,7 @@
+kaggle
+matplotlib
+seaborn
+plotly
+librosa
+ipython
+nbformat>=4.2.0
